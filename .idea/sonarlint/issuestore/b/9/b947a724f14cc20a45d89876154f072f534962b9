@@ -1,0 +1,12 @@
+
+Csquid:S1185"(Remove this method to simply inherit it.(ºŠñ=8¡Ù× ´-
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8¡Ù× ´-
+squid:UselessImportCheck"_Remove this unused import 'com.example.administrator.myapplication.recyclerView.Main2Activity'.(ÿ”Ğ©üÿÿÿÿ8¡Ù× ´-
+Dsquid:S1185"(Remove this method to simply inherit it.(¦°ªö8¡Ù× ´-
+Dsquid:S1185"(Remove this method to simply inherit it.(ÍÙ÷¢8¡Ù× ´-
+Isquid:S1185"(Remove this method to simply inherit it.(èüù±ùÿÿÿÿ8¡Ù× ´-
+Csquid:S1185"(Remove this method to simply inherit it.(¹§ 8¡Ù× ´-
+Šsquid:UselessImportCheck"\Remove this unused import 'com.example.administrator.myapplication.activity.NormalActivity'.(²¼šûÿÿÿÿ8¡Ù× ´-
+Dsquid:S1185"(Remove this method to simply inherit it.(Ù«µ§8¡Ù× ´-
+…squid:UselessImportCheck"\Remove this unused import 'com.example.administrator.myapplication.activity.DialogActivity'.(«ŠÔÖ8¡Ù× ´-
+Œsquid:UselessImportCheck"^Remove this unused import 'com.example.administrator.myapplication.uiWidgetTest.MainActivity'.(ÆÁãıÿÿÿÿ8¡Ù× ´-
